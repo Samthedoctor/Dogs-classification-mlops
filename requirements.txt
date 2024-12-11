@@ -1,0 +1,13 @@
+pymongo
+scikit-learn
+tensorflow
+pandas
+numpy
+matplotlib
+
+
+
+
+
+
+e.
